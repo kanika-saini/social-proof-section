@@ -133,6 +133,7 @@ body {
 }
 .proof-text {
   line-height: 1.6;
+  font-weight: 500;
 }
 /* ******MEDIA QUERIES ******* */
 /* 1150px */
